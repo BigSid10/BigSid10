@@ -1,0 +1,10 @@
+## Hey 👋, This is Troy Campbell
+[![Gmail Badge](https://img.shields.io/badge/-tcampbell4709@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tcampbell4709@gmail.com)](mailto:tcampbell4709@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Troy Campbell-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Troy Campbell/)](https://www.linkedin.com/in/Troy Campbell/) [![Github Badge](https://img.shields.io/badge/-Troy-Campbell-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Troy-Campbell/)](https://www.github.com/Troy-Campbell/) <p align='left'>As a dynamic Business Analyst with a solid foundation in financial planning and data-driven decision-making, I specialize in optimizing business performance through advanced analytics and strategic insights. With a bachelor's degree in financial planning and recent certification in Business Intelligence Analytics, I’ve honed my ability to leverage tools like Tableau, Power BI, SQL, and Python to uncover actionable insights that drive growth and profitability.
+
+I’m passionate about translating complex data into compelling stories that guide decision-making, and I thrive in collaborative, fast-paced environments. With proven expertise in financial analysis, data visualization, and process optimization, I’m committed to helping organizations unlock their full potential.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1SmXbBq3VVHDaWcrtIOoAb3QB9M7nLN1QEftUKV82nEU/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=Troy-Campbell alt=Troy-Campbell /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Troy-Campbell&show_icons=true&include_all_commits=true)](https://github.com/Troy-Campbell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Troy-Campbell&layout=compact)](https://github.com/Troy-Campbell/github-readme-stats)
